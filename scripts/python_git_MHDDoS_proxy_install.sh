@@ -26,6 +26,6 @@ pip install --upgrade pip > /dev/null #No output. Resolved some problems with pi
 #Install latest version of mhddos_proxy and MHDDoS
 cd ~
 rm -rf mhddos_proxy
-git clone https://github.com/porthole-ascend-cinnamon/mhddos_proxy.git
+git clone https://github.com/porthole-ascend-cinnamon/mhddos_proxy_releases.git
 cd mhddos_proxy
 python3 -m pip install -r requirements.txt
